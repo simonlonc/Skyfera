@@ -17,3 +17,6 @@ https://github.com/simonlonc/Skyfera/releases
 ```
 Extract zip file and Run with Powersell **install.ps1**
 After that go to System Settings, Apps, Find Skyfera and enable ***File System*** option
+
+## Problems
+Feel free to open issues, pull requests, or commit code.
